@@ -1,3 +1,16 @@
 body{
- background-color:red;   
+ background-color:yellow;   
 }
+.text {
+    color:black;
+}
+.moretext {
+    color:red;
+    text-align:center;
+    font-size:30px;
+}
+.evenmoretext {
+    color:blue;
+    font-size:30px;
+}
+ 
